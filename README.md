@@ -19,6 +19,11 @@ Please  run the shell script server.sh on Ubuntu
 $sh server.sh
 
 
+Now start the service
+
+
+$sudo service ServerD start 
+
 Then for client programe run
 
 $python client.py <IP> <Port>
